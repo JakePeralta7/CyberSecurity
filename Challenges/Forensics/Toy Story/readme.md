@@ -1,3 +1,5 @@
+# Digital Forensics Challenge -- Beginner
+
 The Toy Story Police Department (TSPD) is investigating a series of kidnappings.  Baby stuffed animals are being kidnapped from their   homes and sold on the international stuffed slave market. Sheriff Woody raided the office of the suspected ringleader.  The Toy Story   Incident Response (TSIR) team was able to perform data acquisition on found devices and computers. The suspect claims he is innocent   and that any evidence found was planted on his computer.   TSPD has also captured a laptop from one of the alleged stuffed animal   buyers.  Your job is to analyze the acquired data and answer the questions in the attached document so that Sheriff Woody can bust  this evil stuffed slave market. 
 
 
