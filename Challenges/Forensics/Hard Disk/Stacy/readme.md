@@ -6,6 +6,8 @@ Also, this is my personal thumbdrive. Keep that in mind please. I'm not sure wha
 
 Instructions:
 >Download the file stacy.tar.gz
+
 >Extract it in a SIFT machine with the foolowing command:
 tar -xf stacy.tar.gz
+
 >Investigate the output file (called image.dd)
