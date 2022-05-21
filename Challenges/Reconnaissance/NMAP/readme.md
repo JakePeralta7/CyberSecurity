@@ -6,5 +6,3 @@ This in an introduction to the nmap tool and is the first installment in a serie
 
 Available Files:
 >[Challenge Worksheet](https://pivotproject.org/challenges/download/7_2b86b9121a01f7143ba4d0fdb8524c33)
-
->[NMAP Lab Overview](https://pivotproject.org/challenges/download/8_b57f53df2fd09ce9c7d68f158a426242)
