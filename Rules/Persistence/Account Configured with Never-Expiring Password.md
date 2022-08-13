@@ -1,12 +1,12 @@
->Account Configured with Never-Expiring Password
+#Account Configured with Never-Expiring Password
 
 
-About the Rule:
+>About the Rule:
 
 Detects the creation and modification of an account with the "Don't Expire Password" option Enabled. Attackers can abuse this misconfiguration to persist in the domain and maintain long-term access using compromised accounts with this property.
  
 
-Conditions:
+>Conditions:
 
 and:
 
@@ -15,12 +15,12 @@ and:
 - message:"'Don't Expire Password' - Enabled"
  
 
-Possible False Positives:
+>Possible False Positives:
 
 Dumb IT guys
 
  
 
-Exceptions:
+>Exceptions:
 
 - user.id:"S-1-5-18"
