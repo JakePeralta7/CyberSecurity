@@ -1,4 +1,4 @@
-Account Configured with Never-Expiring Password
+>Account Configured with Never-Expiring Password
 
 
 About the Rule:
