@@ -22,6 +22,8 @@ or:
 
 >Exceptions:
 
+or:
+
 - process.executable : ("?:\\Program Files\\*.exe", "?:\\Program Files (x86)\\*.exe", "?:\\Windows\\System32\\svchost.exe", "?:\\Windows\\winsxs\\*\\TiWorker.exe", "?:\\Windows\\System32\\drvinst.exe", "?:\\Windows\\System32\\services.exe", "?:\\Windows\\System32\\msiexec.exe", "?:\\Windows\\System32\\regsvr32.exe")
 - (process.name : "procexp??.exe" and registry.data.strings : "?:\\*\\procexp*.sys")
 - registry.data.strings : ("?:\\windows\\system32\\Drivers\\*.sys", "\\SystemRoot\\System32\\drivers\\*.sys", "\\??\\?:\\Windows\\system32\\Drivers\\*.SYS", "system32\\DRIVERS\\USBSTOR")
