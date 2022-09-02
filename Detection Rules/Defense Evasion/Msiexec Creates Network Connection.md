@@ -22,4 +22,4 @@ Legitimate msiexec over networks
 
 >Exceptions:
 
-None for now
+- destination.port: 53
