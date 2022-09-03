@@ -11,3 +11,4 @@
 
 ### Resources
 - [Threat Hunting ideas crushed by reality](https://medium.com/@p.matkovski/threat-hunting-ideas-crushed-by-reality-6c64b81f2cd6)
+- [The ThreatHunting Project](https://www.threathunting.net/reading-list)
