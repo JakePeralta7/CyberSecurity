@@ -14,3 +14,6 @@ Books, Challenges, Tools and more basic stuff you can get anywhere
 
 ### 3. Books
 [Here](Books) I'm going to save books I gathered in the field of computers in general (but mostly cyber security)
+
+### 4. Tools
+[Here](Tools) I've collected usefull tools in the area of DFIR, Threat Hunting and Detection
