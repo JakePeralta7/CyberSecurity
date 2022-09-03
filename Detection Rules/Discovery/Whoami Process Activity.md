@@ -22,4 +22,4 @@ None for Now
 
 >Exceptions:
 
-process.parent.executable : ("C:\\Program Files\\Microsoft Monitoring Agent\\Agent\\MonitoringHost.exe", "C:\\Program Files\\Cohesity\\cohesity_windows_agent_service.exe")
+- process.parent.executable : ("C:\\Program Files\\Microsoft Monitoring Agent\\Agent\\MonitoringHost.exe", "C:\\Program Files\\Cohesity\\cohesity_windows_agent_service.exe")
