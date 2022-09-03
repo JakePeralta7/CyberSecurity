@@ -8,7 +8,7 @@ Books, Challenges, Tools and more basic stuff you can get anywhere
 
 ### 2. Projects
 #### Proactive Threat Hunting
-[Here](Projects/Proactive%20Threat%20Hunting) I'm going to elaborate on:
+[Here](Proactive%20Threat%20Hunting) I'm going to elaborate on:
 - Random ideas about threat hunting that comes to my head
 - Research I conducted in threat hunting
 - Useful research in threat hunting I've found online
