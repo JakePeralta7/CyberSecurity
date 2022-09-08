@@ -20,3 +20,7 @@ Still in work
 
 ### 5. Tools
 [Here](Tools) I've collected usefull tools in the area of DFIR, Threat Hunting and Detection
+
+### 6. Projects
+[ScaryMalware](https://github.com/JakePeralta7/ScaryMalware), This is a mini-malware I developed in Python as a PoC in order to implement techniques I've learned about
+[McAfee ENS Expert Rules](https://github.com/JakePeralta7/McAfee-ENS-Expert-Rules), In this repository I'm going to write expert rules I've created and researched in order to build better detection/prevention
