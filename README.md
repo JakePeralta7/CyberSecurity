@@ -1,6 +1,6 @@
 # CyberSecurity
 
-Books, Challenges, Tools and more basic stuff you can get anywhere
+Research, Rules, Books, Tools and more basic stuff you can get anywhere
 
 ## Content Overview
 ### 1. Detection Rules
